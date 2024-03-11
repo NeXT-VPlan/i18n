@@ -43,4 +43,5 @@ class Strings:
     progress_title = "Please wait..."
 
     # Home Screen Strings
+    home_wm_title = "NeXTPlan - Home"
     home_title = "Welcome, %name!"
