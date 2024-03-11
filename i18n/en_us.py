@@ -116,3 +116,9 @@ class Strings:
     settings_save_button = "Save"
     settings_save_success = "Your settings have been saved."
 
+    ## VPlan
+    vplan_nav = "Plan"
+    vplan_wm_title = "NeXTPlan - Plan"
+    vplan_title = "Timetable"
+    vplan_loading = "Loading..."
+    vplan_no_data = "No data available."
