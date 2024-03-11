@@ -25,8 +25,11 @@ class Strings:
     onboarding_step3_hint_lastname = "Last Name"
     onboarding_step3_hint_pronouns = "Pronouns (optional, e.g. they/them. This will be used to address you in the app.)"
 
-    onboarding_step4_title = "You're all set!"
-    onboarding_step4_text = "You have successfully completed the onboarding process. Click 'Submit' to save your information and continue to the app."
+    onboarding_step4_title = "Select your Class/Course."
+    onboarding_step4_text = "Select the class or course you are currently attending. If you are not sure, please contact your School Administrator."
+
+    onboarding_step5_title = "You're all set!"
+    onboarding_step5_text = "You have successfully completed the onboarding process. Click 'Submit' to save your information and continue to the app."
 
     # UI Strings
 
