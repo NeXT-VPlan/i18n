@@ -124,4 +124,4 @@ class Strings:
     vplan_no_data = "No data available."
 
     vplan_free = "No Class"
-    
+    vplan_no_teacher = "No Teacher - Tasks or Free Time"
