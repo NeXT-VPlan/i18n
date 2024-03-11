@@ -61,6 +61,8 @@ class Strings:
     settings_credentials_password = "Password"
     settings_credentials_schoolid = "School ID"
 
+    settings_theme_title = "Theme"
+
     settings_personal_title = "Personal Information"
     settings_personal_text = "Change your personal information."
     settings_personal_firstname = "First Name"
