@@ -100,6 +100,16 @@ class Strings:
     settings_advanced_logs_title = "Logs"
     settings_advanced_logs_text = "View and send logs to the developer for troubleshooting."
 
+    settings_source_code_title = "Source Code & Licenses"
+    settings_main_code_text = "App Source Code"
+    settings_main_code_subtext = "The source code of this app is available on GitHub. You can view it, contribute to it, and use it for your own projects."
+    settings_i18n_code_text = "Internationalization Source Code"
+    settings_i18n_code_subtext = "The source code for the internationalization of this app is available on GitHub. You can view it, contribute to it, and use it for your own projects."
+    settings_licenses_text = "Licenses"
+    settings_licenses_subtext = "View the licenses of the software used in this app."
+    settings_view_license = "View License"
+
+
     settings_save_button = "Save"
     settings_save_success = "Your settings have been saved."
 
