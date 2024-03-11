@@ -38,3 +38,9 @@ class Strings:
     # Error Strings
     error_title = "Error"
     error_text = "An error occurred. Please try again."
+
+    # Info Strings
+    progress_title = "Please wait..."
+
+    # Home Screen Strings
+    home_title = "Welcome, %name!"
