@@ -122,3 +122,6 @@ class Strings:
     vplan_title = "Timetable"
     vplan_loading = "Loading..."
     vplan_no_data = "No data available."
+
+    vplan_free = "No Class"
+    
