@@ -112,6 +112,12 @@ class Strings:
     settings_licenses_subtext = "Zeigen Sie die Lizenzen der in dieser App verwendeten Software an."
     settings_view_license = "Lizenz anzeigen"
 
+    
+    settings_advanced_smartplan_title = "Smart Sync"
+    settings_advanced_smartplan_text = "Smart Sync aktivieren, um freie Räume und Lehrer zu finden."
+    settings_advanced_smartplan_button = "Smart Sync aktivieren"
+    settings_advanced_smartplan_disclaimer = "Smart Sync ist ein Tool, das Ihnen hilft, freie Räume und Lehrer zu finden. Es kann Ihnen auch helfen, Ihre Zeit effizienter zu nutzen. Smart Sync ist ein experimentelles Feature und kann unerwartetes Verhalten verursachen."
+
 
     settings_save_button = "Speichern"
     settings_save_success = "Ihre Einstellungen wurden gespeichert."

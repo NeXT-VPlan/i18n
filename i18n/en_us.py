@@ -75,6 +75,7 @@ class Strings:
     settings_personal_lastname_hint = "Last Name"
     settings_personal_pronouns_hint = "Pronouns (optional, e.g. they/them. This will be used to address you in the app.)"
 
+
     settings_class_title = "Class"
     settings_class_text = "Change your class/course."
 
@@ -111,6 +112,11 @@ class Strings:
     settings_licenses_text = "Licenses"
     settings_licenses_subtext = "View the licenses of the software used in this app."
     settings_view_license = "View License"
+
+    settings_advanced_smartplan_title = "Smart Sync"
+    settings_advanced_smartplan_text = "Enable Smart Sync to find free rooms and teachers in your school."
+    settings_advanced_smartplan_button = "Enable Smart Sync"
+    settings_advanced_smartplan_disclaimer = "Smart Sync is a tool that is meant to assist you in finding free rooms and teachers. This App, by no means, guarantees the availability of rooms or teachers. Please verify the information provided by Smart Sync before acting on it."
 
 
     settings_save_button = "Save"
