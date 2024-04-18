@@ -79,6 +79,9 @@ class Strings:
     settings_class_title = "Class"
     settings_class_text = "Change your class/course."
 
+    settings_selected_courses_title = "Selected Courses"
+    settings_selected_courses_text = "Select the courses you want to display."
+
     settings_enable_grades_title = "Enable Grades (Experimental)"
     settings_enable_grades_text = "Enable the display and storage of your grades in the app. This feature is experimental and may not work as expected."
     settings_grades_pin_title = "Grades PIN"

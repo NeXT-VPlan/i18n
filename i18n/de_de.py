@@ -78,6 +78,10 @@ class Strings:
     settings_class_title = "Klasse/Kurs"
     settings_class_text = "Wählen Sie Ihre Klasse/Ihren Kurs aus."
 
+    settings_selected_courses_title = "Ausgewählte Kurse"
+    settings_selected_courses_text = "Wählen Sie die Kurse aus, die Sie anzeigen möchten."
+    
+
     settings_enable_grades_title = "Noten aktivieren (Experimentell)"
     settings_enable_grades_text = "Aktivieren Sie die Anzeige Ihrer Noten. Dies ist eine experimentelle Funktion und kann unerwartetes Verhalten verursachen."
     settings_grades_pin_title = "Noten-PIN"
