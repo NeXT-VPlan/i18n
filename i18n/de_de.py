@@ -50,6 +50,7 @@ class Strings:
     home_wm_title = "NeXTPlan - Home"
     home_nav = "Home"
     home_title = "Hallo, %name!"
+    home_subtitle = "Heute ist der %date"
 
     # Settings Screen Strings
     settings_nav = "Einstellungen"
